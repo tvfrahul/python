@@ -1,6 +1,6 @@
 a=3
 b=7
-c=4
+c=5
 loop = [a,b,c]
 def compare(x,y):
     if(x>y):
